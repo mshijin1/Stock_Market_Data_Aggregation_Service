@@ -1,2 +1,3 @@
 scylla-driver
 cassandra-driver
+# python-3.11.0

@@ -61,5 +61,5 @@ def ingest_stock_csv(csv_file_path):
     cluster.shutdown()
 
 if __name__ == "__main__":
-    CSV_PATH = r"C:\Users\ACER\Documents\Stock_Market_Data_Aggregation_Service\data\stock_data.csv" 
+    CSV_PATH = r'C:\Users\ACER\Documents\Stock_Market_Data_Aggregation_Service\data\stock_data.csv' 
     ingest_stock_csv(CSV_PATH)
